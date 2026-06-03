@@ -40,6 +40,14 @@ margin-bottom: 10px;
 }
 
 
+.bot {
+    display: flex;
+    gap: 15px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
 
 
 

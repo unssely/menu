@@ -3,4 +3,5 @@ display: grid;
 grid-template-columns: repeat(3, 352px);
 justify-content: center;
 gap: 30px;
+/* grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); */
 }

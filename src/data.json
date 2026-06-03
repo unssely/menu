@@ -4,53 +4,44 @@
     "path_img": "/img/1.png",
     "name": "Vegie Muffen",
     "occupation": "There are many things are needed to start the Fast Food Business.",
-    "price": "16$",
-    "plus": "/img/Button.svg",
-    "star": "/img/Group.svg"
+    "price": "16$"
+    
 },
 {
     "id": 2,
     "path_img": "/img/2.png",
     "name": "Salads",
     "occupation": "There are many things are needed to start the Fast Food Business.",
-    "price": "12$",
-    "plus": "/img/Button.svg",
-    "star": "/img/Group.svg"
+    "price": "12$"
+    
 },
 {
     "id": 3,
     "path_img": "/img/3.png",
     "name": "Burger",
     "occupation": "There are many things are needed to start the Fast Food Business.",
-    "price": "10$",
-    "plus": "/img/Button.svg",
-    "star": "/img/Group.svg"
+    "price": "10$"
+    
 },
 {
     "id": 4,
     "path_img": "/img/4.png",
     "name": "Delmonico Steak",
     "occupation": "There are many things are needed to start the Fast Food Business.",
-    "price": "14$",
-    "plus": "/img/Button.svg",
-    "star": "/img/Group.svg"
+    "price": "14$"
 },
 {
     "id": 5,
     "path_img": "/img/5.png",
     "name": "Egg Masala",
     "occupation": "There are many things are needed to start the Fast Food Business.",
-    "price": "9$",
-    "plus": "/img/Button.svg",
-    "star": "/img/Group.svg"
+    "price": "9$"
 },
 {
     "id": 6,
     "path_img": "/img/6.png",
     "name": "Peach Melba dish",
     "occupation": "There are many things are needed to start the Fast Food Business.",
-    "price": "15$",
-    "plus": "/img/Button.svg",
-    "star": "/img/Group.svg"
+    "price": "15$"
 }
 ]
