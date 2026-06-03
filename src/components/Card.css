@@ -1,0 +1,45 @@
+.card {
+width: 360px;
+height: 446px;
+background-color: white;
+border-radius: 75px 12px 0 0;
+border: solid 1px #0000001A;
+}
+
+
+.card img {
+width: 360px;
+height: 264px;
+object-fit: cover;
+border-radius: 60px 10px 60px 0;
+}
+
+.card-content h3 {
+font-size: 25px;
+margin-bottom: 10px;
+}
+
+.titlename {
+    display: flex;
+    gap: 15px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.price {
+    font-size: 25px;
+}
+
+.card-content {
+    padding: 0 25px;
+}
+
+.card-content p {
+    text-align: left;
+    margin-top: 10px;
+}
+
+
+
+
+
